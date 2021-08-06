@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iqNiFl0lSjhYsVHBOF0RIgaO+a63RreVv12EFahwqCqrvFsRNB733MYVwiTm1bJIQgxrpQ90bwBRrSl3UNlE4w==",
+  "success": true,
+  "projectFilePath": "G:\\Unity\\GitHub\\cyb3r6\\HololensSpectator-MRTK2.4\\Assets\\MRTK\\Providers\\WindowsMixedReality\\Shared\\DotNetAdapter\\DotNetAdapter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nakisa\\.nuget\\packages\\microsoft.windows.mixedreality.dotnetwinrt\\0.5.1049\\microsoft.windows.mixedreality.dotnetwinrt.0.5.1049.nupkg.sha512",
+    "C:\\Users\\Nakisa\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

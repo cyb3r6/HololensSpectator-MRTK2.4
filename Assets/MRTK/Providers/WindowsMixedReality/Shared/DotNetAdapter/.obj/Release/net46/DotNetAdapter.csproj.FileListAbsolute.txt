@@ -1,0 +1,10 @@
+G:\Unity\GitHub\cyb3r6\HololensSpectator-MRTK2.4\Assets\MRTK\Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Editor.asmdef
+G:\Unity\GitHub\cyb3r6\HololensSpectator-MRTK2.4\Assets\MRTK\Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Editor.asmdef.meta
+G:\Unity\GitHub\cyb3r6\HololensSpectator-MRTK2.4\Assets\MRTK\Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Init.cs
+G:\Unity\GitHub\cyb3r6\HololensSpectator-MRTK2.4\Assets\MRTK\Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Init.cs.meta
+G:\Unity\GitHub\cyb3r6\HololensSpectator-MRTK2.4\Assets\MRTK\Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\x64\MonoSupport.dll
+G:\Unity\GitHub\cyb3r6\HololensSpectator-MRTK2.4\Assets\MRTK\Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\x64\MonoSupport.dll.meta
+G:\Unity\GitHub\cyb3r6\HololensSpectator-MRTK2.4\Assets\MRTK\Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT.dll
+G:\Unity\GitHub\cyb3r6\HololensSpectator-MRTK2.4\Assets\MRTK\Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\System.Drawing.Primitives.dll
+G:\Unity\GitHub\cyb3r6\HololensSpectator-MRTK2.4\Assets\MRTK\Providers\WindowsMixedReality\Shared\DotNetAdapter\.obj\Release\net46\DotNetAdapter.csproj.AssemblyReference.cache
+G:\Unity\GitHub\cyb3r6\HololensSpectator-MRTK2.4\Assets\MRTK\Providers\WindowsMixedReality\Shared\DotNetAdapter\.obj\Release\net46\DotNetAdapter.csproj.CopyComplete
