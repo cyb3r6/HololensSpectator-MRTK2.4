@@ -314,6 +314,10 @@ PlayerSettings:
     - OpenVR
   - m_BuildTarget: Windows Store Apps
     m_Enabled: 1
+    m_Devices:
+    - WindowsMR
+  - m_BuildTarget: tvOS
+    m_Enabled: 1
     m_Devices: []
   openGLRequireES31: 0
   openGLRequireES31AEP: 0
@@ -573,11 +577,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Template_3D
   metroPackageVersion: 
-  metroCertificatePath: 
+  metroCertificatePath: G:\Unity\GitHub\cyb3r6\HololensSpectator-MRTK2.4\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 80dab95a27d5d801
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: 
@@ -596,9 +600,15 @@ PlayerSettings:
   platformCapabilities:
     WindowsStoreApps:
       InternetClient: True
+      InternetClientServer: True
       Microphone: True
+      PicturesLibrary: True
+      PrivateNetworkClientServer: True
       SpatialPerception: True
-  metroTargetDeviceFamilies: {}
+      VideosLibrary: True
+      WebCam: True
+  metroTargetDeviceFamilies:
+    Holographic: True
   metroFTAName: 
   metroFTAFileTypes: []
   metroProtocolName: 
